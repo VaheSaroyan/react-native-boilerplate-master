@@ -2,11 +2,6 @@
 # yarn lockfile v1
 
 
-fast-base64-decode@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/fast-base64-decode/-/fast-base64-decode-1.0.0.tgz#b434a0dd7d92b12b43f26819300d2dafb83ee418"
-  integrity sha512-qwaScUgUGBYeDNRnbc/KyllVU88Jk1pRHPStuF/lO7B0/RTRLj7U0lkdTAutlBblY08rwZDff6tNU9cjv6j//Q==
-
 kleur@^3.0.3:
   version "3.0.3"
   resolved "https://registry.yarnpkg.com/kleur/-/kleur-3.0.3.tgz#a79c9ecc86ee1ce3fa6206d1216c501f147fc07e"
@@ -24,13 +19,6 @@ prompts@^2.4.1:
   dependencies:
     kleur "^3.0.3"
     sisteransi "^1.0.5"
-
-react-native-get-random-values@^1.11.0:
-  version "1.11.0"
-  resolved "https://registry.yarnpkg.com/react-native-get-random-values/-/react-native-get-random-values-1.11.0.tgz#1ca70d1271f4b08af92958803b89dccbda78728d"
-  integrity sha512-4BTbDbRmS7iPdhYLRcz3PGFIpFJBwNZg9g42iwa2P6FOv9vZj/xJc678RZXnLNZzd0qd7Q3CCF6Yd+CU2eoXKQ==
-  dependencies:
-    fast-base64-decode "^1.0.0"
 
 sisteransi@^1.0.5:
   version "1.0.5"
